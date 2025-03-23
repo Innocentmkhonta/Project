@@ -1,0 +1,6 @@
+(design_block_lib_table
+  (version 7)
+  (lib (name "MP2338GTL-Z (2)")(type "KiCad")(uri "C:/Users/EEC/Downloads/MP2338GTL-Z (2)")(options "")(descr ""))
+  (lib (name "RT6150AGQW")(type "KiCad")(uri "C:/Users/EEC/Downloads/RT6150AGQW")(options "")(descr ""))
+  (lib (name "ul_MP3423GG-Z")(type "KiCad")(uri "C:/Users/EEC/Downloads/ul_MP3423GG-Z")(options "")(descr ""))
+)
