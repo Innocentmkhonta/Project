@@ -6,8 +6,8 @@ This repository contains the design and implementation of the power subsystem fo
 ## System Requirements
 
 ### Motor Control
-- Bidirectional operation** of up to 4 motors 
-- Motor specifications**:
+- **Bidirectional operation** of up to 4 motors 
+- **Motor specifications**:
   - 2x main brushed DC motors - 200mA max current draw at 15V battery
   - 2x auxiliary motors - 50mA each
 
