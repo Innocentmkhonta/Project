@@ -13,7 +13,7 @@ This repository contains the design and implementation of the power subsystem fo
 
 ### Battery Management
 - **Battery**: 4.2V Lithium ion battery 
-- **INA219 implementation for monitoring the battery on the I2C Bus
+- **INA219** implementation for monitoring the battery on the I2C Bus
 - **Charging**: Support for battery charging from the 5V input 
 - **Dual charging modes**:
   - Higher charging current for battery (600mA)
